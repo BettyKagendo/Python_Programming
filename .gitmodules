@@ -1,0 +1,12 @@
+[submodule "python-hangman-game"]
+	path = python-hangman-game
+	url = https://github.com/zinduaschool/python-hangman-game-BettyKagendo
+[submodule "python-rock-paper-scissors-BettyKagendo"]
+	path = python-rock-paper-scissors-BettyKagendo
+	url = https://github.com/zinduaschool/python-rock-paper-scissors-BettyKagendo
+[submodule "python-snakes-and-ladders-game-BettyKagendo"]
+	path = python-snakes-and-ladders-game-BettyKagendo
+	url = https://github.com/zinduaschool/python-snakes-and-ladders-game-BettyKagendo
+[submodule "python_challenges"]
+	path = python_challenges
+	url = https://github.com/BettyKagendo/python_challenges
