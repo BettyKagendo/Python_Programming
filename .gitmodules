@@ -10,3 +10,6 @@
 [submodule "python_challenges"]
 	path = python_challenges
 	url = https://github.com/BettyKagendo/python_challenges
+[submodule "capstone_project"]
+	path = capstone_project
+	url = https://github.com/BettyKagendo/Python-Programming-Capstone-Project.git
